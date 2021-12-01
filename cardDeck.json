@@ -1,0 +1,134 @@
+[
+    {
+      "id": "0",
+      "cardName": "The Fool",
+      "uprightWords": "innocence, new beginnings, free spirit",
+      "reversedWords": "recklessness, taken advantage of, inconsideration"
+    },
+    {
+      "id": "I",
+      "cardName": "The Magician",
+      "uprightWords": "willpower, desire, creation, manifestation",
+      "reversedWords": "trickery, illusions, out of touch"
+    },
+    {
+      "id": "II",
+      "cardName": "The High Priestess",
+      "uprightWords": "intuitive, unconscious, inner voice",
+      "reversedWords": "lack of center, lost inner voice, repressed feelings"
+    },
+    {
+      "id": "III",
+      "cardName": "The Empress",
+      "uprightWords": "motherhood, fertility, nature",
+      "reversedWords": "dependence, smothering, emptiness, nosiness"
+    },
+    {
+      "id": "IV",
+      "cardName": "The Emperor",
+      "uprightWords": "authority, structure, control, fatherhood",
+      "reversedWords": "tyranny, rigidity, coldness"
+    },
+    {
+      "id": "V",
+      "cardName": "The Hierophant",
+      "uprightWords": "tradition, conformity, morality, ethics",
+      "reversedWords": "rebellion, subversiveness, new approaches"
+    },
+    {
+      "id": "VI",
+      "cardName": "The Lovers",
+      "uprightWords": "partnerships, duality, union",
+      "reversedWords": "loss of balance, one-sidedness, disharmony"
+    },
+    {
+      "id": "VII",
+      "cardName": "The Chariot",
+      "uprightWords": "direction, control, willpower",
+      "reversedWords": "lack of control, lack of direction, aggression"
+    },
+    {
+      "id": "VIII",
+      "cardName": "Strength",
+      "uprightWords": "inner strength, bravery, compassion, focus",
+      "reversedWords": "self doubt, weakness, insecurity"
+    },
+    {
+      "id": "IX",
+      "cardName": "The Hermit",
+      "uprightWords": "contemplation, search for truth, inner guidance",
+      "reversedWords": "loneliness, isolation, lost your way"
+    },
+    {
+      "id": "X",
+      "cardName": "The Wheel of Fortune",
+      "uprightWords": "change, cycles, inevitable fate",
+      "reversedWords": "no control, clinging to control, bad luck"
+    },
+    {
+      "id": "XI",
+      "cardName": "Justice",
+      "uprightWords": "cause and effect, clarity, truth",
+      "reversedWords": "dishonesty, unaccountability, unfairness"
+    },
+    {
+      "id": "XII",
+      "cardName": "The Hanged Man",
+      "uprightWords": "sacrifice, release, martyrdom",
+      "reversedWords": "stalling, needless sacrifice, fear of sacrifice"
+    },
+    {
+      "id": "XIII",
+      "cardName": "Death",
+      "uprightWords": "end of cycle, beginnings, change, metamorphosis",
+      "reversedWords": "fear of change, holding on, stagnation, decay"
+    },
+    {
+      "id": "XIV",
+      "cardName": "Temperance",
+      "uprightWords": "middle path, patience, finding meaning",
+      "reversedWords": "extremes, excess, lack of balance"
+    },
+    {
+      "id": "XV",
+      "cardName": "The Devil",
+      "uprightWords": "addiction, materialism, playfulness",
+      "reversedWords": "freedom, release, restoring control"
+    },
+    {
+      "id": "XVI",
+      "cardName": "The Tower",
+      "uprightWords": "sudden upheaval, broken pride, disaster",
+      "reversedWords": "disaster avoided, delayed disaster, fear of suffering"
+    },
+    {
+      "id": "XVII",
+      "cardName": "The Star",
+      "uprightWords": "hope, faith, rejuvenation",
+      "reversedWords": "faithlessness, discouragement, insecurity"
+    },
+    {
+      "id": "XVIII",
+      "cardName": "The Moon",
+      "uprightWords": "unconscious, illusions, intuition",
+      "reversedWords": "confusion, fear, misinterpretation"
+    },
+    {
+      "id": "XIX",
+      "cardName": "The Sun",
+      "uprightWords": "joy, success, celebration, positivity",
+      "reversedWords": "negativity, depression, sadness"
+    },
+    {
+      "id": "XX",
+      "cardName": "Judgement",
+      "uprightWords": "reflection, reckoning, awakening",
+      "reversedWords": "lack of self awareness, doubt, self loathing"
+    },
+    {
+      "id": "XXI",
+      "cardName": "The World",
+      "uprightWords": "fulfillment, harmony, completion",
+      "reversedWords": "incompletion, no closure"
+    }
+  ]
